@@ -17,9 +17,9 @@ marcsigel is a Python3 program that adds a Sigel to a given collection of binary
 
 * via pip:
     ```
-    sudo -H pip3 install --upgrade [ABSOLUTE PATH TO YOUR LOCAL GIT REPOSITORY OF MARCSIGEL]
+    python3.6 -m pip install --upgrade [ABSOLUTE PATH TO YOUR LOCAL GIT REPOSITORY OF MARCSIGEL]
     ```
-    (which provides you ```marcsigel``` as a system-wide commandline command)
+    (which provides you ```marcsigel``` as a commandline command)
 
 ## Usage
 
